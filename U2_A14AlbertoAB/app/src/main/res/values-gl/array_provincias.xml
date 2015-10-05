@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_provincias">
+        <item name="prov_cor">A Coru\u00f1a</item>
+        <item name="prov_lug">Lugo</item>
+        <item name="prov_ou">Ourense</item>
+        <item name="prov_pon">Pontevedra</item>
+        <item name="prov_le">Le\u00f3n</item>
+    </string-array>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">U2_A14AlbertoAB</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textoArriba">Escribe un texto y pulsa el bot&#243;n</string>
+    <string name="textoFixo">Limpiar</string>
+    <string name="boton">A&#241;adir/Limpiar</string>
+    <string name="textoCambiante">Aqu&#237; ver&#225;s el texto que has escrito</string>
+    <string name="on">Iniciar</string>
+    <string name="off">Parar</string>
+    <string name="rojo">Rojo</string>
+    <string name="azul">Azul</string>
+    <string name="tostada1">Barrio de las Fonti&#241;as.</string>
+    <string name="tostada2">Seleccionaste una provincia Gallega</string>
+    <string name="tostada3">No seleccionaste una provincia Gallega</string>
+</resources>

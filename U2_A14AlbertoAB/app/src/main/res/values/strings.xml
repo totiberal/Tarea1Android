@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">U2_A14AlbertoAB</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textoArriba">Type some text and press the button.</string>
+    <string name="textoFixo">Clear</string>
+    <string name="boton">Add/Clear</string>
+    <string name="textoCambiante">Here is where you will see the text that you type</string>
+    <string name="on">Start</string>
+    <string name="off">Stop</string>
+    <string name="rojo">Red</string>
+    <string name="azul">Blue</string>
+    <string name="tostada1">Fonti&#241;as Street.</string>
+    <string name="tostada2">You have selected a Galician province</string>
+    <string name="tostada3">You have not selected a Galician Province</string>
+</resources>
